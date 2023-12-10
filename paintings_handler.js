@@ -1,5 +1,5 @@
 const all_paintings = (data_provider,app) => {
-    app.get('/api/painting', (req,resp) => { resp.json(data_provider.get_paintings_data()) } );
+    app.get('/api/paintings', (req,resp) => { resp.json(data_provider.get_paintings_data()) } );
 }
 
 const paintings_id = (data_provider,app) => {
