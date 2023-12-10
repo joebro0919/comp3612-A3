@@ -17,7 +17,7 @@ paintings_handler.paintings_year(data_provider,app);
 paintings_handler.paintings_title(data_provider,app);
 paintings_handler.paintings_color(data_provider,app);
 
-let port = 8080;
+let port = 3000;
 app.listen(port, () => {
  console.log("Server running at port= " + port);
 });
