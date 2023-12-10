@@ -1,1 +1,21 @@
 # comp3612-A3
+https://historical-messy-hydrangea.glitch.me/api/paintings
+https://historical-messy-hydrangea.glitch.me/api/painting/433
+https://historical-messy-hydrangea.glitch.me/api/painting/43374534856
+https://historical-messy-hydrangea.glitch.me/api/painting/gallery/7
+https://historical-messy-hydrangea.glitch.me/api/painting/gallery/43374534856
+https://historical-messy-hydrangea.glitch.me/api/painting/artist/106
+https://historical-messy-hydrangea.glitch.me/api/painting/artist/43374534856
+https://historical-messy-hydrangea.glitch.me/api/painting/year/1850/1900
+https://historical-messy-hydrangea.glitch.me/api/painting/year/2200/2400
+https://historical-messy-hydrangea.glitch.me/api/painting/title/self
+https://historical-messy-hydrangea.glitch.me/api/painting/title/dfjkghdfkgh
+https://historical-messy-hydrangea.glitch.me/api/painting/color/NAPA
+https://historical-messy-hydrangea.glitch.me/api/painting/color/coffee%20bean
+https://historical-messy-hydrangea.glitch.me/api/painting/color/kcvhvxchbkcj
+https://historical-messy-hydrangea.glitch.me/api/artists
+https://historical-messy-hydrangea.glitch.me/api/artists/Netherlands
+https://historical-messy-hydrangea.glitch.me/api/artists/sdfjjsdf
+https://historical-messy-hydrangea.glitch.me/api/galleries
+https://historical-messy-hydrangea.glitch.me/api/galleries/france
+https://historical-messy-hydrangea.glitch.me/api/galleries/kcvhvxchbkcj
